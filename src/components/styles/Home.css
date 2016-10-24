@@ -1,0 +1,23 @@
+.Main-Container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.Navbar {
+  flex: 0 1 100%;
+}
+
+.fixed {
+  margin: 0px;
+  top: auto;
+  right: 20px;
+  bottom: 20px;
+  left: auto;
+  position: fixed;
+  z-index: 5;
+}
+
+.Card {
+  flex: 0 1 50%
+
+}

@@ -1,0 +1,13 @@
+
+  "items": [
+    {
+      "language": "Javascript",
+      "category": "Arrays",
+      "text": "Array.slice(:fromWhere, :UntilWhere(notIncluding it) )"
+    },
+    {
+      "language": "Java",
+      "category": "Strings",
+      "text": "To repeat a character n times, new String(new char[n]).replace(regex, string)"
+    }
+
